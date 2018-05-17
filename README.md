@@ -5,4 +5,5 @@ This is the repository of face recognition project under Seasons Of Code, WnCC, 
 - [x] Logistic Regression
 - [ ] Sofmax Regression
 - [ ] Nearest Neighbour
+- [ ] Neural Networks
 - [ ] Titanic survivors,kaggle.com
