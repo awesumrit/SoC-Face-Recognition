@@ -6,4 +6,4 @@ This is the repository of face recognition project under Seasons Of Code, WnCC, 
 - [ ] Sofmax Regression
 - [ ] Nearest Neighbour
 - [ ] Neural Networks
-- [ ] Titanic survivors, kaggle.com
+- [c] Titanic survivors, kaggle.com
