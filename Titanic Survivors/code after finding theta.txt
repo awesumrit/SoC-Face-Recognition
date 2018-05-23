@@ -1,17 +1,18 @@
-test = csvread('test.csv');
+test = csvread('test2.csv') ;
 test(1,:)= [];
-M=test ;
-M(:,[2,3,4,5,6,7,8,9,10,11,12])= [];
+M=test(:,[5]);
 test(:,[3,4,5,9,11,12])= [];
-X = test(:, [2,3,4,5,6]);
+test=[test M] ;
+
+X = test(:, [2,3,4,5,6,7]);
 [m, n] = size(X);
 
-Add intercept term to x and X_test
+
 X = [ones(m, 1) X];
 
 m = size(X, 1); 
 
 p = zeros(m, 1);
 
-index = find(sigmoid(X*theta)>=0.75) ;
+index = find(sigmoid(X*theta)>=0.5) ;
 p(index) =1; 
