@@ -7,4 +7,4 @@ This is the repository of face recognition project under Seasons Of Code, WnCC, 
 - [ ] Nearest Neighbour
 - [ ] Neural Networks
 - [x] Titanic survivors, kaggle.com
-      (Achieved accuracy of 65.55%)
+      (Achieved accuracy of 76.07%)
