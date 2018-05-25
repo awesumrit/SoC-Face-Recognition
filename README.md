@@ -7,6 +7,6 @@ This is the repository of face recognition project under Seasons Of Code, WnCC, 
 - [x] Titanic survivors, kaggle.com
       (Achieved accuracy of 76.55%)
 - [ ] Sofmax Regression
-- [ ] Nearest Neighbour
+- [ ] K-Nearest Neighbour Approach
 - [ ] Neural Networks
 
