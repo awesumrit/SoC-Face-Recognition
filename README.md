@@ -3,8 +3,10 @@ This is the repository of face recognition project under Seasons Of Code, WnCC, 
 # Face Recognition Task List
 - [x] Linear Regression
 - [x] Logistic Regression
-- [ ] Sofmax Regression
-- [ ] Nearest Neighbour
-- [ ] Neural Networks
+- [x] Support Vector Machines
 - [x] Titanic survivors, kaggle.com
       (Achieved accuracy of 76.55%)
+- [ ] Sofmax Regression
+- [ ] K-Nearest Neighbour Approach
+- [ ] Neural Networks
+
