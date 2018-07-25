@@ -7,6 +7,7 @@ This is the repository of face recognition project under Seasons Of Code, WnCC, 
 - [x] Neural Networks
 - [x] Principal Component Analysis
 - [x] Linear Discriminant Analysis
+- [x] Fisherfaces
 
 
 
